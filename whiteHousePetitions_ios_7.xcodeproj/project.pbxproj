@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E1C9D0F5219BA1F400546A5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C9D0F4219BA1F400546A5E /* AppDelegate.swift */; };
-		E1C9D0F7219BA1F400546A5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C9D0F6219BA1F400546A5E /* ViewController.swift */; };
-		E1C9D0FA219BA1F400546A5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1C9D0F8219BA1F400546A5E /* Main.storyboard */; };
-		E1C9D0FC219BA1F500546A5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1C9D0FB219BA1F500546A5E /* Assets.xcassets */; };
-		E1C9D0FF219BA1F500546A5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1C9D0FD219BA1F500546A5E /* LaunchScreen.storyboard */; };
+		E1131B03219DC9CD00CD0C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1131B02219DC9CD00CD0C1E /* AppDelegate.swift */; };
+		E1131B05219DC9CD00CD0C1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1131B04219DC9CD00CD0C1E /* ViewController.swift */; };
+		E1131B08219DC9CD00CD0C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1131B06219DC9CD00CD0C1E /* Main.storyboard */; };
+		E1131B0A219DC9CE00CD0C1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1131B09219DC9CE00CD0C1E /* Assets.xcassets */; };
+		E1131B0D219DC9CE00CD0C1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1131B0B219DC9CE00CD0C1E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E1C9D0F1219BA1F400546A5E /* whiteHousePetitions_ios_7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whiteHousePetitions_ios_7.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E1C9D0F4219BA1F400546A5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E1C9D0F6219BA1F400546A5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E1C9D0F9219BA1F400546A5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E1C9D0FB219BA1F500546A5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E1C9D0FE219BA1F500546A5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E1C9D100219BA1F500546A5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1131AFF219DC9CD00CD0C1E /* whiteHousePetitions_ios_7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whiteHousePetitions_ios_7.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1131B02219DC9CD00CD0C1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E1131B04219DC9CD00CD0C1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E1131B07219DC9CD00CD0C1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E1131B09219DC9CE00CD0C1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E1131B0C219DC9CE00CD0C1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E1131B0E219DC9CE00CD0C1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E1C9D0EE219BA1F400546A5E /* Frameworks */ = {
+		E1131AFC219DC9CD00CD0C1E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,31 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E1C9D0E8219BA1F400546A5E = {
+		E1131AF6219DC9CD00CD0C1E = {
 			isa = PBXGroup;
 			children = (
-				E1C9D0F3219BA1F400546A5E /* whiteHousePetitions_ios_7 */,
-				E1C9D0F2219BA1F400546A5E /* Products */,
+				E1131B01219DC9CD00CD0C1E /* whiteHousePetitions_ios_7 */,
+				E1131B00219DC9CD00CD0C1E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E1C9D0F2219BA1F400546A5E /* Products */ = {
+		E1131B00219DC9CD00CD0C1E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E1C9D0F1219BA1F400546A5E /* whiteHousePetitions_ios_7.app */,
+				E1131AFF219DC9CD00CD0C1E /* whiteHousePetitions_ios_7.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E1C9D0F3219BA1F400546A5E /* whiteHousePetitions_ios_7 */ = {
+		E1131B01219DC9CD00CD0C1E /* whiteHousePetitions_ios_7 */ = {
 			isa = PBXGroup;
 			children = (
-				E1C9D0F4219BA1F400546A5E /* AppDelegate.swift */,
-				E1C9D0F6219BA1F400546A5E /* ViewController.swift */,
-				E1C9D0F8219BA1F400546A5E /* Main.storyboard */,
-				E1C9D0FB219BA1F500546A5E /* Assets.xcassets */,
-				E1C9D0FD219BA1F500546A5E /* LaunchScreen.storyboard */,
-				E1C9D100219BA1F500546A5E /* Info.plist */,
+				E1131B02219DC9CD00CD0C1E /* AppDelegate.swift */,
+				E1131B04219DC9CD00CD0C1E /* ViewController.swift */,
+				E1131B06219DC9CD00CD0C1E /* Main.storyboard */,
+				E1131B09219DC9CE00CD0C1E /* Assets.xcassets */,
+				E1131B0B219DC9CE00CD0C1E /* LaunchScreen.storyboard */,
+				E1131B0E219DC9CE00CD0C1E /* Info.plist */,
 			);
 			path = whiteHousePetitions_ios_7;
 			sourceTree = "<group>";
@@ -67,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E1C9D0F0219BA1F400546A5E /* whiteHousePetitions_ios_7 */ = {
+		E1131AFE219DC9CD00CD0C1E /* whiteHousePetitions_ios_7 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E1C9D103219BA1F500546A5E /* Build configuration list for PBXNativeTarget "whiteHousePetitions_ios_7" */;
+			buildConfigurationList = E1131B11219DC9CE00CD0C1E /* Build configuration list for PBXNativeTarget "whiteHousePetitions_ios_7" */;
 			buildPhases = (
-				E1C9D0ED219BA1F400546A5E /* Sources */,
-				E1C9D0EE219BA1F400546A5E /* Frameworks */,
-				E1C9D0EF219BA1F400546A5E /* Resources */,
+				E1131AFB219DC9CD00CD0C1E /* Sources */,
+				E1131AFC219DC9CD00CD0C1E /* Frameworks */,
+				E1131AFD219DC9CD00CD0C1E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -81,25 +81,25 @@
 			);
 			name = whiteHousePetitions_ios_7;
 			productName = whiteHousePetitions_ios_7;
-			productReference = E1C9D0F1219BA1F400546A5E /* whiteHousePetitions_ios_7.app */;
+			productReference = E1131AFF219DC9CD00CD0C1E /* whiteHousePetitions_ios_7.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E1C9D0E9219BA1F400546A5E /* Project object */ = {
+		E1131AF7219DC9CD00CD0C1E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1010;
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Michael Kozub";
 				TargetAttributes = {
-					E1C9D0F0219BA1F400546A5E = {
-						CreatedOnToolsVersion = 10.1;
+					E1131AFE219DC9CD00CD0C1E = {
+						CreatedOnToolsVersion = 9.3;
 					};
 				};
 			};
-			buildConfigurationList = E1C9D0EC219BA1F400546A5E /* Build configuration list for PBXProject "whiteHousePetitions_ios_7" */;
+			buildConfigurationList = E1131AFA219DC9CD00CD0C1E /* Build configuration list for PBXProject "whiteHousePetitions_ios_7" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = E1C9D0E8219BA1F400546A5E;
-			productRefGroup = E1C9D0F2219BA1F400546A5E /* Products */;
+			mainGroup = E1131AF6219DC9CD00CD0C1E;
+			productRefGroup = E1131B00219DC9CD00CD0C1E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E1C9D0F0219BA1F400546A5E /* whiteHousePetitions_ios_7 */,
+				E1131AFE219DC9CD00CD0C1E /* whiteHousePetitions_ios_7 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E1C9D0EF219BA1F400546A5E /* Resources */ = {
+		E1131AFD219DC9CD00CD0C1E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1C9D0FF219BA1F500546A5E /* LaunchScreen.storyboard in Resources */,
-				E1C9D0FC219BA1F500546A5E /* Assets.xcassets in Resources */,
-				E1C9D0FA219BA1F400546A5E /* Main.storyboard in Resources */,
+				E1131B0D219DC9CE00CD0C1E /* LaunchScreen.storyboard in Resources */,
+				E1131B0A219DC9CE00CD0C1E /* Assets.xcassets in Resources */,
+				E1131B08219DC9CD00CD0C1E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E1C9D0ED219BA1F400546A5E /* Sources */ = {
+		E1131AFB219DC9CD00CD0C1E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1C9D0F7219BA1F400546A5E /* ViewController.swift in Sources */,
-				E1C9D0F5219BA1F400546A5E /* AppDelegate.swift in Sources */,
+				E1131B05219DC9CD00CD0C1E /* ViewController.swift in Sources */,
+				E1131B03219DC9CD00CD0C1E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E1C9D0F8219BA1F400546A5E /* Main.storyboard */ = {
+		E1131B06219DC9CD00CD0C1E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E1C9D0F9219BA1F400546A5E /* Base */,
+				E1131B07219DC9CD00CD0C1E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E1C9D0FD219BA1F500546A5E /* LaunchScreen.storyboard */ = {
+		E1131B0B219DC9CE00CD0C1E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E1C9D0FE219BA1F500546A5E /* Base */,
+				E1131B0C219DC9CE00CD0C1E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E1C9D101219BA1F500546A5E /* Debug */ = {
+		E1131B0F219DC9CE00CD0C1E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,9 +213,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -223,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		E1C9D102219BA1F500546A5E /* Release */ = {
+		E1131B10219DC9CE00CD0C1E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -268,9 +267,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -278,7 +276,7 @@
 			};
 			name = Release;
 		};
-		E1C9D104219BA1F500546A5E /* Debug */ = {
+		E1131B12219DC9CE00CD0C1E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,12 +288,12 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.michaelkozub.whiteHousePetitions-ios-7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E1C9D105219BA1F500546A5E /* Release */ = {
+		E1131B13219DC9CE00CD0C1E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +305,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.michaelkozub.whiteHousePetitions-ios-7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -315,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E1C9D0EC219BA1F400546A5E /* Build configuration list for PBXProject "whiteHousePetitions_ios_7" */ = {
+		E1131AFA219DC9CD00CD0C1E /* Build configuration list for PBXProject "whiteHousePetitions_ios_7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E1C9D101219BA1F500546A5E /* Debug */,
-				E1C9D102219BA1F500546A5E /* Release */,
+				E1131B0F219DC9CE00CD0C1E /* Debug */,
+				E1131B10219DC9CE00CD0C1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E1C9D103219BA1F500546A5E /* Build configuration list for PBXNativeTarget "whiteHousePetitions_ios_7" */ = {
+		E1131B11219DC9CE00CD0C1E /* Build configuration list for PBXNativeTarget "whiteHousePetitions_ios_7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E1C9D104219BA1F500546A5E /* Debug */,
-				E1C9D105219BA1F500546A5E /* Release */,
+				E1131B12219DC9CE00CD0C1E /* Debug */,
+				E1131B13219DC9CE00CD0C1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E1C9D0E9219BA1F400546A5E /* Project object */;
+	rootObject = E1131AF7219DC9CD00CD0C1E /* Project object */;
 }
